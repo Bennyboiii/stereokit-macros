@@ -13,4 +13,4 @@ proc-macro = true
 quote = "1"
 proc-macro2 = "1.0"
 syn = "1.0"
-stereokit-rs = {path = "../stereokit-rs-2"}
+stereokit-rs = {path = "https://github.com/MalekiRe/stereokit-rs.git"}
